@@ -12,5 +12,6 @@
 | 西瓜视频     | www.ixigua.com     | https://www.ixigua.com/6862198827873468932?logTag=o5bVNaw9Z2NuFBBvSx2Ak | \                                                            |
 | 抖音         | v.douyin.com       | https://v.douyin.com/JrLtx18/                                | \                                                            |
 | 快手         | v.kuaishou.com     | https://v.kuaishou.com/8g2q58                                | \                                                            |
+| bilibili     | www.bilibili.com   | https://www.bilibili.com/video/av455182791                   | \                                                            |
 
 **注：除"央视网新闻"外均为视频播放页URL，其它URL无效**
